@@ -10,3 +10,4 @@ My NodeJS study history.
 |File Name|Description|
 |:---:|---|
 |_001.js|Node.js 를 설치하고 1 + 1 의 결과를 출력하는 js 파일을 만들어보았습니다.|
+|_002.js|간단히 Node.js 서버를 실행시켜보았습니다.|
