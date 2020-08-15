@@ -20,3 +20,4 @@ My NodeJS study history.
 |_009.js|Not Found 를 처리하였습니다.|
 |_010.js|홈페이지를 구현했습니다. (undefined 처리)|
 |_011.js|파일 목록을 불러와보았습니다.|
+|_012.js|파일 목록을 불러와서 ul 리스트를 만들어냈습니다.|
